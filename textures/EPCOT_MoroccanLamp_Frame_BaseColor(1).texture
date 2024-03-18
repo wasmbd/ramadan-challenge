@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "EPCOT_MoroccanLamp_Frame_BaseColor(1)",
+  "identifier": "texture:228376-cb21e693-54ad-419f-b48a-b07560160095",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "28de45785998a35308eeb0ea0bbd1870",
+  "assetLocator": "textures/EPCOT_MoroccanLamp_Frame_BaseColor(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:229000-cb21e693-54ad-419f-b48a-b07560160095",
+    "textureExportConfig:229628-cb21e693-54ad-419f-b48a-b07560160095",
+    "textureExportConfig:230262-cb21e693-54ad-419f-b48a-b07560160095"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "28de45785998a35308eeb0ea0bbd1870",
+      "colorCount": 5145,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.93049562780176,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

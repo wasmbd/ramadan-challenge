@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "samosa texture",
+  "identifier": "texture:294361-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "021be91def1a19e95a5fafc5e2df9510",
+  "assetLocator": "textures/samosa texture.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:230900-cb21e693-54ad-419f-b48a-b07560160095",
+    "textureExportConfig:231538-cb21e693-54ad-419f-b48a-b07560160095",
+    "textureExportConfig:232178-cb21e693-54ad-419f-b48a-b07560160095"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 576,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "021be91def1a19e95a5fafc5e2df9510",
+      "colorCount": 26143,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 6.48226340674176,
+      "pixelsHigh": 576,
+      "pixelsWide": 1024
+    }
+  ]
+}

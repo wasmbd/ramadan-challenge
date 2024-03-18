@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Loogo",
+  "identifier": "texture:1443-cdcfeb17-7953-4ecf-903f-cfe694dbe7ac",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "09750374a787501633342c13b45f8b26",
+  "assetLocator": "textures/Loogo.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:1863-cdcfeb17-7953-4ecf-903f-cfe694dbe7ac",
+    "textureExportConfig:2011-cdcfeb17-7953-4ecf-903f-cfe694dbe7ac",
+    "textureExportConfig:2165-cdcfeb17-7953-4ecf-903f-cfe694dbe7ac"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 594,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 420,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "09750374a787501633342c13b45f8b26",
+      "colorCount": 3312,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.6229236369085103,
+      "pixelsHigh": 594,
+      "pixelsWide": 420
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "3b8eb0e93c244747b94b354f547cd975",
+  "identifier": "master3_d_object_model:293751-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+  "sourceIdentifier": "asset_collection_model:293755-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.002515404485166073,
+  "globalScaleFactor": 1,
+  "height": 0.0017891600728034973,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.0015614655567333102,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "object_0",
+      "identifier": "mesh:293737-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "object_0",
+      "numberOfFaces": 50000,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:293741-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:293739-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:293744-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:293733-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+              "surfaceGroupIdentifier": "293745-a781e7fc-dc63-47ab-bf61-25d44ad15e03"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:293747-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:293733-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+              "surfaceGroupIdentifier": "293745-a781e7fc-dc63-47ab-bf61-25d44ad15e03"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface2",
+              "identifier": "surface:293749-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:293733-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+              "surfaceGroupIdentifier": "293745-a781e7fc-dc63-47ab-bf61-25d44ad15e03"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

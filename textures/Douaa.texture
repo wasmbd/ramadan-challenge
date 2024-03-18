@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Douaa",
+  "identifier": "texture:62971-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "10c64a74c9da01ff8c95e7ec8e1ce8c9",
+  "assetLocator": "textures/Douaa.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 594,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 420,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "10c64a74c9da01ff8c95e7ec8e1ce8c9",
+      "colorCount": 13429,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.2916605706763187,
+      "pixelsHigh": 594,
+      "pixelsWide": 420
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "BonAppetit",
+  "identifier": "texture:46877-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c6a6cda096445a3ddecd1ce85091ae3d",
+  "assetLocator": "textures/BonAppetit.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:47725-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+    "textureExportConfig:48151-a781e7fc-dc63-47ab-bf61-25d44ad15e03",
+    "textureExportConfig:48579-a781e7fc-dc63-47ab-bf61-25d44ad15e03"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 666,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 375,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c6a6cda096445a3ddecd1ce85091ae3d",
+      "colorCount": 9530,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.5476776983214888,
+      "pixelsHigh": 666,
+      "pixelsWide": 375
+    }
+  ]
+}
